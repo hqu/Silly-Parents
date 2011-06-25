@@ -1,0 +1,34 @@
+/* ----------  page defaults ---------- */
+
+html {
+
+		}
+
+body {
+		background: #F5F6F6;
+
+		}
+		
+/* ----------  primary layout ---------- */
+
+#wrapper {
+		width: 950px;
+		margin: 0 auto;
+		}
+		
+#header {
+		padding-top: 40px;
+		width: 950px;
+		}
+		
+
+a:link,		
+a:visited {
+		color: #0060FF;
+		text-decoration: none;
+		}
+		
+a:hover, 
+a:focus {
+		border-bottom: 1px dotted #a2b52d;
+		}
